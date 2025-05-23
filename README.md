@@ -4,7 +4,7 @@ This project presents a Microsoft Excel-based dashboard that visualizes insights
 
 ## Salary Dashboard  
 
-Check out my work here: [View the Interactive Dashboard](https://yourdashboardlink.com)
+Check out my work here: [View the Interactive Dashboard](https://github.com/EmemeMichael/Data_Science_Salary_Dasboard)
 
 This interactive dashboard is designed to help data professionals explore salary distribution, job types, and role-based statistics filtered by location, role, and employment type.
 
